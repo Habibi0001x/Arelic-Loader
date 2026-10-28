@@ -2,7 +2,7 @@ getgenv().SCRIPT_KEY = "KEYLESS"
 
 local Games = {
     -- // Steal an Egg
-    [107778070777162] = "https://api.jnkie.com/api/v1/luascripts/public/724bf4886ba8f867fa18002343fa39ddfc5ae3f560ac881a59f1f1d325e6b8f7/download",
+    [107778070777162] = "https://api.jnkie.com/api/v1/luascripts/public/5ccf05906d28082a2e62d5f9dd62b67208c62f7b111ac96b8725802fc97161ec/download",
 
 }
 
